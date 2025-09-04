@@ -1,3 +1,3 @@
 # Biodefense
 
-Datasets foe above project will be made available soon!
+Datasets for above project will be made available soon!
